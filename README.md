@@ -19,7 +19,7 @@ npm test
 
 # How To Use
 
-There are several classes that can be used. The main class is Accaunt. It has a constructor and several methods:
+There are several classes that can be used. The main class is Account. It has a constructor and several methods:
 - constructor <br>
 It has 2 arguments: account number and client (instance of Client class that represents a client)
 - deposit <br>
