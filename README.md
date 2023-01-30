@@ -33,4 +33,4 @@ Creates a statement that can be printed. Example: console.log(account1.printStat
 I'm greatful to [Makers Academy](https://github.com/enterprises/makers-academy) for this expirience.
 
 # License
-GPL License
+GNU GPLv3+
