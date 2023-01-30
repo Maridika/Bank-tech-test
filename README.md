@@ -28,3 +28,9 @@ Adds amount to the account. It has 2 arguments: date and amount. The date format
 Withdraws amount from the account. It has 2 arguments: date and amount. The date format is "yyyy-mm-dd".
 - printStatement <br>
 Creates a statement that can be printed. Example: console.log(account1.printStatement());
+
+# Credits
+[Greatful to Makers Academy](https://github.com/enterprises/makers-academy) for this expirience.
+
+# License
+GPL License
